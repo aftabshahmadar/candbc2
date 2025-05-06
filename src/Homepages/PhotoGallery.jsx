@@ -6,7 +6,7 @@ import Gal2 from "../assets/images/CandB_files/gal2.png";
 import Gal3 from "../assets/images/CandB_files/Gal3.png";
 
 // Machine
-import Machine1 from "../assets/images/CandB_files/machine1.png";
+import Machine1 from "../assets/images/CandB_files/Machine1.png";
 import Machine2 from "../assets/images/CandB_files/machine2.png";
 import Machine3 from "../assets/images/CandB_files/machine3.png";
 
