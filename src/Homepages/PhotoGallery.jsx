@@ -2,7 +2,7 @@ import React, { useState } from "react";
 
 // Quality
 import Gal1 from "../assets/images/CandB_files/Gal1.png";
-import gal2 from "../assets/images/CandB_files/Gal2.png";
+import Gal2 from "../assets/images/CandB_files/gal2.png";
 import Gal3 from "../assets/images/CandB_files/Gal3.png";
 
 // Machine
@@ -28,7 +28,7 @@ const categories = [
 ];
 
 const images = {
-  quality: [Gal1, gal2, Gal3],
+  quality: [Gal1, Gal2, Gal3],
   machine: [Machine1, Machine2, Machine3],
   foundry: [Foundry1, Foundry2, Foundry3],
   paint: [Paint1, Paint2, Paint3],
