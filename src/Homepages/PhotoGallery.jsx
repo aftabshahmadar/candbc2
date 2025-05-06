@@ -2,23 +2,23 @@ import React, { useState } from "react";
 
 // Quality
 import Gal1 from "../assets/images/CandB_files/Gal1.png";
-import Gal2 from "../assets/images/CandB_files/gal2.png";
+import Gal2 from "../assets/images/CandB_files/Gal2.png";
 import Gal3 from "../assets/images/CandB_files/Gal3.png";
 
 // Machine
 import Machine1 from "../assets/images/CandB_files/Machine1.png";
-import Machine2 from "../assets/images/CandB_files/machine2.png";
-import Machine3 from "../assets/images/CandB_files/machine3.png";
+import Machine2 from "../assets/images/CandB_files/Machine2.png";
+import Machine3 from "../assets/images/CandB_files/Machine3.png";
 
 // // Foundry
-import Foundry1 from "../assets/images/CandB_files/foundary1.png";
-import Foundry2 from "../assets/images/CandB_files/foundary2.png";
-import Foundry3 from "../assets/images/CandB_files/foundary3.png";
+import Foundry1 from "../assets/images/CandB_files/Foundary1.png";
+import Foundry2 from "../assets/images/CandB_files/Foundary2.png";
+import Foundry3 from "../assets/images/CandB_files/Foundary3.png";
 
 // // Paint
-import Paint1 from "../assets/images/CandB_files/paint1.png";
-import Paint2 from "../assets/images/CandB_files/paint2.png";
-import Paint3 from "../assets/images/CandB_files/paint3.png";
+import Paint1 from "../assets/images/CandB_files/Paint1.png";
+import Paint2 from "../assets/images/CandB_files/Paint2.png";
+import Paint3 from "../assets/images/CandB_files/Paint3.png";
 
 const categories = [
   { name: "Quality Control Department", key: "quality" },
